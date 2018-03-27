@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1511357804 source:c:\171119\compile\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<map>
+	<cstring>
+	<cstdlib>
+
+1511436636 source:c:\users\admin\desktop\compile\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<map>
+	<cstring>
+	<cstdlib>
+
+1514093988 source:c:\171119\compile_171123\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<map>
+	<cstring>
+	<cstdlib>
+
+1511923483 source:c:\171119\compile_171123\solve_code.c
+	"main.cpp"
+
+1514093988 c:\171119\compile_171123\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<map>
+	<cstring>
+	<cstdlib>
+
